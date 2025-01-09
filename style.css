@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+}
+.Refresh{
+    font-size: 3rem;
+    color: chocolate;
+}
+.Player1{
+    display: inline-block;
+    font-size: 2rem;
+  color: mediumaquamarine;
+  position: relative;
+  top: 25px;
+  left: -90px;
+ 
+}
+.Player2{
+    display: inline-block;
+    font-size: 2rem;
+  color: mediumaquamarine;
+  position:relative;
+  top: 25px;
+  right:-90px;
+}
+.paragraph{
+    font-family: sans-serif;
+    color: aqua;
+    font-size: 1rem;
+    position: relative;
+    top:50px;
+}
